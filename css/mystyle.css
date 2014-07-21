@@ -1,0 +1,10 @@
+#canvas {display: none; z-index: 1;}
+#mycanvas {display: none; z-index: 1;}
+#image {display: none; z-index: 20;}
+#info {display: none; z-index: 10;}
+#info0 {display: none; z-index: 10;}
+#info1 {display: none; z-index: 10;}
+#info2 {display: none; z-index: 10;}
+#info3 {display: none; z-index: 10;}
+#info4 {display: none; z-index: 10;}
+#startButton {display: none; z-index: 10;}
